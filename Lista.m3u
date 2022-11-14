@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF: -1, Caracol
+#EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="FAMILIARES", CARACOL | Colombia
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1 tvg-id="RCN Internacional" tvg-name="RCN Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele.png" group-title="FAMILIARES",RCN | Colombia
+#EXTINF:-1 tvg-id="" tvg-name="RCN Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele.png" group-title="FAMILIARES",RCN | Colombia
 http://magmas5.com:8000/live/malotv/gratis/3575.m3u8
-#EXTINF: -1, Canal 1
+#EXTINF:-1 tvg-id="" tvg-name="Canal 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/1_colombia.png" group-title="FAMILIARES", CANAL 1 | Colombia
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF: -1, Boomerang
 http://45.5.8.78:8000/play/a00i
@@ -123,5 +123,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/182909
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/182910
 #EXTINF:-1 tvg-id="" tvg-name="TOROS " tvg-logo="https://images2.imgbox.com/d3/be/nbKO8yvv_o.png" group-title="⚽ DEPORTES ⚽",TOROS 
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/182905
+
+
 
 
