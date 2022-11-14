@@ -1,2 +1,0 @@
-# Alan-Channel
-Canales

@@ -1,0 +1,29 @@
+#EXTM3U
+
+#EXTINF: -1, Caracol
+
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF: -1, Canal 1
+
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+#EXTINF: -1, Boomerang
+
+http://45.5.8.78:8000/play/a00i
+
+#EXTINF: -1, los simpson
+
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+
+#EXTINF: -1, venevision
+
+http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
+
+#EXTINF: -1, Televen
+
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
+
+
+
