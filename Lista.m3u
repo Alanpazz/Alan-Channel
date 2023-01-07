@@ -7,7 +7,7 @@ http://magmas5.com:8000/live/malotv/gratis/3575.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/1_colombia.png" group-title="FAMILIARES", CANAL 1 | Colombia
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El Chavo" tvg-logo="https://imagenes.gatotv.com/categorias/programas/el_chavo_del_ocho.jpg" group-title="FAMILIARES", El chavo | Colombia
-https://videostreaming.cloudserverlatam.com/elchavoplus/elchavoplus/chunklist_w292718987.m3u8
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/504.ts
 #EXTINF:-1 tvg-id="El Chapulin" tvg-name="El Chapulin" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png" group-title="NIÑOS Y JOVENES",El Chapulin Colorado | 24/7
 http://magmas5.com:8000/live/malotv/gratis/129323.m3u8
 #EXTINF: -1, varios
@@ -23,32 +23,31 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="NIÑOS Y JOVENES",Los Simpsons 2 | Chile
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/867973dd-9cc8-49e4-ab5f-158681d0a516-profile_image-70x70.png" group-title="TWITCH",La Casa del Anime HD 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f8b099e9-9c63-4ec2-910d-e40ddb911f1c-profile_image-70x70.png" group-title="TWITCH",Anime Live 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqoEoxdwSrzV1uyN523ZTk0D4BlSpaJOjWTVM2GYVPva9vs9sNXBbxAeXPZS2_hAWTN86Y3noD2qSvEwE7pPulh4JWGSv6Y5dTFqkXCWWTIeBc8kKBUHN-Gss2NvbYWxnfNLu8k_suk818O4V9hXZ8dXC-WJmk9qeU4LQqM3ZDTdN7DcUpi93gLh9hijRLlhqsEJhRN79UOjtlXWlMxx_4ETb5lAGN5bSPV6K80jQCisbYlz79l3stnmpM3lFAJsK8kCGIsUyUbc5-DucCl-8o6it3MwA0OXeuKms6zpkfIKWt1pTGBh7YyVn_JUoOkZM81zp7JRYPqEZWILL5NwwjFjajm1yF9bgnF7ss_OYOS-irrNzmF74qefMD4K2mIk07EYHeU9FWBBedaFBMhXLugXfsxjyCaCi0v5J4b97pyiMyKc1mTftvvdM-XCCHsAe6oLY1B9cWRKa4yLp8a7LMu53YbBux3WWztvYZATrzmOJX-ok3WswrPLDcRjIHQzJg9limbOvLraNBHtZV8dakAcf_ys27Lkk_EZ8e3Ls9BU3z9TXf6iBQaDb2C7xh3ald2K3VGhnj8JFpatHByXumAeEElbY06sgFTi_ePw-BULyWDKW0o_MBGBF54TNgkH4gdqmNABOjwiE0UgqZytyYuZOWENqQcClbCaKjlsdT4UzQ4Y97ejGn9-epfqs8E4Q-YCNbsTCySYEyL61RqQVDahfHK7a8pq4lOKdD4aDIWC6IH63KG5oA0OVCABKglldS13ZXN0LTIwlgU.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0a5e3115-8e85-4f25-84e5-7656b9177443-profile_image-70x70.png" group-title="TWITCH",Anime Live Deluxe 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8af0c5e3-ce96-4b5f-8b3b-97e34e704a12-profile_image-70x70.jpeg" group-title="TWITCH",Locomotion Plus 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrAE3ddmIQw_OF5GgdlhCd0yI8bsdDgBQevdmNSvrY1IFwMhLoHldYAp4xlVNrjF0VGjlpztYBHobYqBESX6cqFAc_unkQ96vop6XWG9ESJdba3TQo5ATRxEW-JGH2-tPN40rm1yHXMngn3j_jilVJoIeQpn35Ec034EYAe7kLC8BsnRvNsyT4zQ8oQz2Lv72r0DGnpTDQBx0aLHZehI5Fa3R2zc--uQfyhZfJsj6cYCTYQUqcPCkIQvMdfefBvXADF5WhKjICX1gKYgfBnZcuXHM6rgozDRYAk7jqh3RFaawJB3BQ9dbFaLSi83_CHqAfenqcT65KPksF3dwDwyVyrmlhPassfaru4TDmbifmDzEBcOvmk7DXGTbVfh8xWTwVNxTpNtRTfGEXfvRGWxVYy9DXoIXKsrWc3jYjs04qQqu8j00x5-IXo22Cqd5TOO0LCMsap23GdPDirlkU-VdCctoiUIlP6qLkCEUZo2eWRO9H8Ry_W5bSYWC-Y4YAVyzk0NOr-mc8WCDWeThUHHTw1ll-ZqGZ4HlSoDH-C46aJk5Tytkprmcw_w5GB_1E3UXdptvGgWYHav9W0-v9OZk0u2AXxU6QNW3792kYgYK6UJqk5H_HIR_MpjJPcd4tX81j80UVRr92AoLihbrn6MP-2BUv5qKM23LK3pwwbezdmJYNZJb6Veq0cEYPXAP1fQXbhwbg24XZA3vqsHP0Ymyh354LiOlDv293YkVV55TkBSi1oaDIEkSHqrsrCGSV2doCABKgl1cy1lYXN0LTEwywM.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a98cf3c4-3670-4a14-8d1d-4d6a06d85300-profile_image-70x70.png" group-title="TWITCH",Japanimotion 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fbd54a0c-ec4f-4ad8-829c-364f140cbe26-profile_image-70x70.png" group-title="TWITCH",Tvnoizu 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2e78616a-4ae7-4af9-8706-0a5437bf3406-profile_image-70x70.png" group-title="TWITCH",Peliculas Mania 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cq8EL-hw-87jR-NoTVe4UfwMWL4kMnBAodAPDQX5owgYSUW3i1QAiNgzClfBmKJJfLc0OS_bA0RNa-H-6actKEu9e6rPkzCusaBXjEZC4vWKsS3qe6q9eZHY_vr61pBfF2wXMRX-kw0NsVux5SyHILwrV-WPIqBRaF9bT_ta2M9fEKg1FOjFnYgLFBsfiitTDL1s6zYwRw8ya7UMC7APgsA6deiCDU5qoksnjitjEhEVth1MuSZ5Kk6-IO8NDmLd6D0_kOtC6zP9502lSoqI_zi-xpke-F7tTEkuLI8HS22lEGwM7I-0ZOF-T9V6hNYd32Fzwffb9kvU3Zb7JFwAWL3EAZOkPqvlV3zsulIqO2FlJ9_4kD0C2cf4IskF2V4YkwQLRcHs9KvbWT4ASWu5qS21N9lzY7OtLWASl5YwQeavkxBl-V6OEOAiBTUGJX8d4WrbWHtLmnwD1qENcqMhchGRd4qM4iEMWTKtpGbIh3UAfbLPMf23OIgr6NM2gxQeJ43f5VC31_sYBLSX2bmc3QkaVphP62_ZECAp-QQBDpx67uKyjksXhsbyazhRBLS5AZOmwbLP70Gzi3WDJGO0diF29ykSaDRjau9yZg2ehQMgnCG9_g9RpMOvwHhNwWqDY4fdx-VD52wXRl0BeNjy708mtfy-eIfkkAb_lTzisLCp9S0-hs26pMOACbN77pZKOLpzGv_aNA9krTOK8Gn9Zij3sTRUPC_k1_sShpXtUE0sTBoMwqX3ATFYjrd-Dxn4IAEqCWV1LXdlc3QtMjCWBQ.m3u8 
-#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8676dfd5-f07e-439c-bdf9-df36080e39dc-profile_image-70x70.png" group-title="TWITCH",Los Simpsons 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a6ff53a0-0641-4c6c-9adf-475c952c8571-profile_image-70x70.png" group-title="TWITCH",7 central tv 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png" group-title="TWITCH",Chespirito 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/aad836a0-1d52-4c7c-9588-59bb0833080b-profile_image-70x70.png" group-title="TWITCH",El Chavo 
-#EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3dbf5911-0f9d-40d5-b971-7397562777d2-profile_image-70x70.png" group-title="TWITCH",South Park Tv 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/16e867f5-7ec5-4dba-8fcc-eaa47daf1379-profile_image-70x70.png" group-title="TWITCH",Tigretafios 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f450b5c4-aa5d-42de-990f-e065965314ab-profile_image-70x70.png" group-title="TWITCH",CeciliaOrson 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fb20b4cf-6fe5-4478-8657-e9809d7f549f-profile_image-70x70.png" group-title="TWITCH",Dragon Ball 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/92ce8ef1-485e-4559-b5ab-1aa7dc08ee61-profile_image-70x70.png" group-title="TWITCH",ZAZ Tv 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cc5afbe0-3b2a-43a5-8957-9cf7cde7149f-profile_image-70x70.png" group-title="TWITCH",Nanatsu no Taizai 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/94933e40-aaaa-4d2c-b2f6-c9d5f9630c72-profile_image-70x70.png" group-title="TWITCH",Magia Record Madoka Magica 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a239e0c3-8293-48fe-806f-1610c12756dc-profile_image-70x70.png" group-title="TWITCH",cabeza de vhs 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c9baab2e-d824-42eb-8d7f-32e309a46b95-profile_image-70x70.png" group-title="TWITCH",Futurama
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/26f782d0-a8bd-43ce-99d1-e7d81b9b5026-profile_image-70x70.png" group-title="TWITCH",Panda Max Live 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a4ca1d61-a1a2-4421-9b25-70de9c630160-profile_image-70x70.png" group-title="TWITCH",Dragon Ball Super 
+#EXTINF:0 type="favorites" channelId="-1" name="24/7: Los super sonicos" group="✌|LAT| 24/7 Latino✌" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: Los super sonicos
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/529.ts
 
+#EXTINF:0 type="favorites" channelId="-1" name="24/7: Los Picapiedras" group="✌|LAT| 24/7 Latino✌" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: Los Picapiedras
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/515.ts
+#EXTINF:0 type="favorites" channelId="-1" name="24/7: thundercats" group="✌|LAT| 24/7 Latino✌" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: thundercats
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/527.ts
+#EXTINF:0 type="favorites" channelId="-1" name="24/7:  xmen" group="✌|LAT| 24/7 Latino✌" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7:  xmen
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/528.ts
 
+#EXTINF:0 type="favorites" channelId="-1" group="INFANTIL - ANIME" logo="https://pbs.twimg.com/profile_images/1285557513132412929/56MTe4V2_400x400.jpg", FUTURAMA
+https://videostreaming.cloudserverlatam.com/cloudtvplus/cloudtvplus/playlist.m3u8
 
+#EXTINF:0 type="favorites" channelId="-1" name="The Big Bang Theory" group="24/7" logo="https://www.formulatv.com/images/series/posters/100/185/14_m3.jpg", The Big Bang Theory
+http://bulltv.us:2999/darlin/darlin/158
 
+#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL PREMIERE" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png", UNIVERSAL PREMIERE
+http://bulltv.us:2999/darlin/darlin/75
+#EXTINF:0 type="favorites" channelId="1330" name="HBO" group="CINEMA PREMIUM" logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo.png", HBO
+http://bulltv.us:2999/darlin/darlin/87
+
+#EXTINF:0 type="stream" channelId="4773" name="Caracol." group="Colombia" logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg", Caracol.
+http://bulltv.us:2999/darlin/darlin/254
+#EXTINF:0 type="stream" channelId="3783" name="RCN." group="Colombia" logo="https://www.valoraanalitik.com/wp-content/uploads/2018/07/RCNTV.jpg", RCN.
+http://bulltv.us:2999/darlin/darlin/255
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cJx07RV/Dragon-Ball-Z-Serie-Androides-Cell.png" group-title="Animes",Dragon Ball Z Serie Androides Cell 
+https://raw.githubusercontent.com/laureanoflix/SERIES/main/DBZ.m3u
