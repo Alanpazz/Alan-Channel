@@ -1,53 +1,49 @@
 #EXTM3U
+#EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="FAMILIARES", CARACOL | Colombia
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCN Internacional" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele.png" group-title="FAMILIARES",RCN | Colombia
-http://magmas5.com:8000/live/malotv/gratis/3575.m3u8
+#EXTIN:-1 ,CARACOL
+http://181.78.8.90:16123/play/ch58?fbclid=IwAR2E5c9SDIvxxDwly3i7Mkw3iHIB6L4ooKnVpogXJBKo_WNc4pCQzLs2Vpw
+
+#EXTIN:-1 ,ESPN
+http://181.78.8.90:16123/play/ch16?fbclid=IwAR2E5c9SDIvxxDwly3i7Mkw3iHIB6L4ooKnVpogXJBKo_WNc4pCQzLs2Vpw
+
+
+#EXTIN:-1 ,CARACOL2
+https://hls.goodgame.ru/hls/201745.m3u8
+
+
+#EXTIN:-1 ,ESPN PLUS
+https://live.telelatinohd.com:8080/MjAxLjE4My45MS4xNDY=/16_.m3u8?token=ZepTu0gUzPw6qCpmTCObUA&expires=1681723173
+
+
+#EXTIN:-1 ,GOLTV
+https://live.telelatinohd.com:8080/MjAxLjE4My45MS4xNDY=/7_.m3u8?token=vhpACuO_F-HU2l5OW8dp_Q&expires=1681723358
+
+
+#EXTIN:-1 ,FOX 2
+http://181.78.8.90:16123/play/ch20?fbclid=IwAR2E5c9SDIvxxDwly3i7Mkw3iHIB6L4ooKnVpogXJBKo_WNc4pCQzLs2Vpw
+
+
+#EXTIN:-1 ,STAR CHANNEL
+http://181.78.8.90:16123/play/ch07?fbclid=IwAR2E5c9SDIvxxDwly3i7Mkw3iHIB6L4ooKnVpogXJBKo_WNc4pCQzLs2Vpw
+
+
+
+
+#EXTIN:-1 , FOX3
+http://181.78.8.90:16123/play/ch21?fbclid=IwAR2E5c9SDIvxxDwly3i7Mkw3iHIB6L4ooKnVpogXJBKo_WNc4pCQzLs2Vpw
+
+
+#EXTIN:-1 ,ESPN2
+http://181.78.8.90:16123/play/ch17?fbclid=IwAR2E5c9SDIvxxDwly3i7Mkw3iHIB6L4ooKnVpogXJBKo_WNc4pCQzLs2Vpw
+
+#EXTIN:-1 ,ESPN3
+http://181.78.8.90:16123/play/ch18?fbclid=IwAR2E5c9SDIvxxDwly3i7Mkw3iHIB6L4ooKnVpogXJBKo_WNc4pCQzLs2Vpw
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/1_colombia.png" group-title="FAMILIARES", CANAL 1 | Colombia
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="El Chavo" tvg-logo="https://imagenes.gatotv.com/categorias/programas/el_chavo_del_ocho.jpg" group-title="FAMILIARES", El chavo | Colombia
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/504.ts
-#EXTINF:-1 tvg-id="El Chapulin" tvg-name="El Chapulin" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png" group-title="NIÑOS Y JOVENES",El Chapulin Colorado | 24/7
-http://magmas5.com:8000/live/malotv/gratis/129323.m3u8
+
 #EXTINF: -1, varios
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF: -1, venevision
-http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8
-#EXTINF: -1, Televen
-https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 
-
-#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://e1.pngegg.com/pngimages/669/354/png-clipart-los-simpsons-1-texto-p-the-simpsons-text.png" group-title="NIÑOS Y JOVENES",Los Simpsons | Chile
-https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title="NIÑOS Y JOVENES",Los Simpsons 2 | Chile
-https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" name="24/7: Los super sonicos" group="✌|LAT| 24/7 Latino✌" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: Los super sonicos
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/529.ts
-
-#EXTINF:0 type="favorites" channelId="-1" name="24/7: Los Picapiedras" group="✌|LAT| 24/7 Latino✌" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: Los Picapiedras
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/515.ts
-#EXTINF:0 type="favorites" channelId="-1" name="24/7: thundercats" group="✌|LAT| 24/7 Latino✌" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7: thundercats
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/527.ts
-#EXTINF:0 type="favorites" channelId="-1" name="24/7:  xmen" group="✌|LAT| 24/7 Latino✌" logo="http://iptvtree.es:80/images/gE0WG3vS821BOprvjNMm6aZgszOeRdhuYMvckF4optjLX3nqgpqPNmgmlIvIWVFsa5J2CIBvtOiudrcDKtpOp4RAY-qRFJGpJZHqcZQKeNo.png", 24/7:  xmen
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/528.ts
-
-#EXTINF:0 type="favorites" channelId="-1" group="INFANTIL - ANIME" logo="https://pbs.twimg.com/profile_images/1285557513132412929/56MTe4V2_400x400.jpg", FUTURAMA
-https://videostreaming.cloudserverlatam.com/cloudtvplus/cloudtvplus/playlist.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" name="The Big Bang Theory" group="24/7" logo="https://www.formulatv.com/images/series/posters/100/185/14_m3.jpg", The Big Bang Theory
-http://bulltv.us:2999/darlin/darlin/158
-
-#EXTINF:0 type="favorites" channelId="-1" name="UNIVERSAL PREMIERE" group="CINEMA PREMIUM" logo="https://cdn.mitvstatic.com/channels/ar_fox-movies-hd_m.png", UNIVERSAL PREMIERE
-http://bulltv.us:2999/darlin/darlin/75
-#EXTINF:0 type="favorites" channelId="1330" name="HBO" group="CINEMA PREMIUM" logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo.png", HBO
-http://bulltv.us:2999/darlin/darlin/87
-
-#EXTINF:0 type="stream" channelId="4773" name="Caracol." group="Colombia" logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg", Caracol.
-http://bulltv.us:2999/darlin/darlin/254
-#EXTINF:0 type="stream" channelId="3783" name="RCN." group="Colombia" logo="https://www.valoraanalitik.com/wp-content/uploads/2018/07/RCNTV.jpg", RCN.
-http://bulltv.us:2999/darlin/darlin/255
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cJx07RV/Dragon-Ball-Z-Serie-Androides-Cell.png" group-title="Animes",Dragon Ball Z Serie Androides Cell 
-https://raw.githubusercontent.com/laureanoflix/SERIES/main/DBZ.m3u
